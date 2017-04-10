@@ -1,3 +1,6 @@
 bye bye
 rainy
 world
+welcome
+sunny
+world
